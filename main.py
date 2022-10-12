@@ -8,7 +8,7 @@ from curs import bitpriceUSD
 
 qiwin = 1234 #Номер QIWI
 btccoshel= 1234 #Номер BTC
-token = "" # Токен бота
+token = "5699580658:AAGeQawDEWKiwcOfxDd8GIJhDQVcgvX6jwo" # Токен бота
 
 bot = telebot.TeleBot(token)
 
